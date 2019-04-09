@@ -1,5 +1,7 @@
 # Deploy a cloud-native microservices application on IBM Cloud Private
 
+## Install and run a cloud-native microservices app on an IBM Cloud Private platform on Kubernetes.
+
 ### Tutorial
 
 In this tutorial, you install and run a cloud-native microservices application on an IBM® Cloud Private platform on Kubernetes. The application implements a simple storefront that displays a catalog of computing devices. People can search for and buy products from the application's web interface. For a reference implementation diagram for the application, see [Microservices with Kubernetes](https://www.ibm.com/cloud/garage/architectures/microservices/1_0).
